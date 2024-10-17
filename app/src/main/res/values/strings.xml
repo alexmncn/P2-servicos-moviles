@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="curso_matriculado">Curso superior donde estás matriculado:</string>"
+    <string name="rb1">Primero</string>
+    <string name="rb2">Segundo</string>
+    <string name="rb3">Tercero</string>
+    <string name="rb4">Cuarto</string>
+</resources>
